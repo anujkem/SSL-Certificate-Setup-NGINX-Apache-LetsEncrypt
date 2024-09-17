@@ -1,7 +1,6 @@
 # SSL-Certificate-Setup-NGINX-Apache-LetsEncrypt
 
 
-SSL Setup
 
 Description:
 This repository provides step-by-step instructions to set up SSL certificates for web servers using Let's Encrypt with NGINX and Apache2.
