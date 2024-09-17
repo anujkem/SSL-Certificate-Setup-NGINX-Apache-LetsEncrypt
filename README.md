@@ -64,6 +64,3 @@ Additional Notes:
     sudo certbot renew --dry-run
 
 ---
-
-License:
-This repository is licensed under the MIT License.
